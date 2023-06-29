@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tarunadla
-- 👀 I’m interested in  
+- 👀 I’m interested in machine learning  
 - 🌱 I’m currently learning full stack and doing bachloar's at parul university (CSE-AI)
 - 💞️ I’m looking to collaborate on web devloping
 - 📫 How to reach me ...
